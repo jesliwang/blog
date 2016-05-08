@@ -3,11 +3,26 @@
   <channel>
     <title>Jesliwang</title>
     <description></description>
-    <link>http://jesliwang.github.io/</link>
-    <atom:link href="http://jesliwang.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 May 2016 23:06:50 +0800</pubDate>
-    <lastBuildDate>Sun, 08 May 2016 23:06:50 +0800</lastBuildDate>
+    <link>http://jesliwang.github.io/blog/</link>
+    <atom:link href="http://jesliwang.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 08 May 2016 23:40:23 +0800</pubDate>
+    <lastBuildDate>Sun, 08 May 2016 23:40:23 +0800</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
+    
+      <item>
+        <title>Artifical Intelligence Resources Collections</title>
+        <description>&lt;h1 id=&quot;ai&quot;&gt;游戏ai的学习网站&lt;/h1&gt;
+&lt;p&gt;http://aigamedev.com&lt;br /&gt;
+http://www.gameai.com&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 May 2016 20:53:48 +0800</pubDate>
+        <link>http://jesliwang.github.io/blog/normal/2016/05/08/artifical-intelligence-resources-collections.html</link>
+        <guid isPermaLink="true">http://jesliwang.github.io/blog/normal/2016/05/08/artifical-intelligence-resources-collections.html</guid>
+        
+        
+        <category>normal</category>
+        
+      </item>
     
   </channel>
 </rss>
