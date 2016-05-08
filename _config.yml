@@ -1,0 +1,33 @@
+# Site settings
+## Change the values as needed.
+title: Jesliwang
+port: 4444
+email: smileking67@gmail.com
+description: ""
+keywords: ""
+url: "http://jesliwang.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+# Build settings
+markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
+links:
+  facebook: 王剑虹
+  twitter: smileking67
+  email: smileking67@gmail.com
+exclude:
+  - bower_components
+  - README.md
+full_name: jesliwang
+
+##set this to enable disqus commenting
+disqus: bitwiser
+
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: bitwiser.in
