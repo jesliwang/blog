@@ -5,7 +5,7 @@ port: 4444
 email: smileking67@gmail.com
 description: ""
 keywords: ""
-url: "http://jesliwang.github.io" # the base hostname & protocol for your site
+url: "http://jesliwang.github.io/blog" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 gems: [jekyll-paginate]
 paginate: 5
