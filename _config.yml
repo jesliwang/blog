@@ -6,7 +6,7 @@ email: smileking67@gmail.com
 description: ""
 keywords: ""
 url: "http://jesliwang.github.io/blog" # the base hostname & protocol for your site
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
