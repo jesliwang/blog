@@ -7,5 +7,5 @@ categories: normal
 ---
 
 # 游戏ai的学习网站
-http://aigamedev.com<br/>
-http://www.gameai.com
+[http://aigamedev.com](http://aigamedev.com)<br/>
+[http://www.gameai.com](http://www.gameai.com)
