@@ -2,11 +2,14 @@
 layout: page
 title: About
 color: indigo
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# 王剑虹
 
-You can find the source code for the Jekyll theme at: [github.com/brijeshb42/bitwiser-material](github.com/brijeshb42/bitwiser-material)
+## 工作经历
+* 2011.7 - 2013.4  腾讯社区搜索部
+* 2013.4 - 2013.8 深圳乐易有限公司
+* 2013.8 - 2015.11 深圳山海乐游
+* 2015.11 至今 深圳飓风在线科技有限公司 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
