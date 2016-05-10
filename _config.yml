@@ -1,6 +1,7 @@
 # Site settings
 ## Change the values as needed.
 title: Jesliwang
+port: 4444
 email: smileking67@gmail.com
 description: ""
 keywords: ""
@@ -16,8 +17,8 @@ sass:
   sass_dir: _sass
   style: :compressed
 links:
-  facebook: 王剑虹
-  twitter: smileking67
+  facebook: 100001542718031
+  twitter: jianhong_wang
   email: smileking67@gmail.com
 exclude:
   - bower_components
