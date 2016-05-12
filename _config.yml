@@ -29,5 +29,5 @@ full_name: jesliwang
 disqus: bitwiser
 
 ##set this to enable google analytics
-#ga_id: analyticsID
-#ga_domain: bitwiser.in
+ga_id: UA-77674305-1
+ga_domain: auto
