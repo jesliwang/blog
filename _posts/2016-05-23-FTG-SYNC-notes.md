@@ -1,7 +1,7 @@
 ---
 layout: post
 color: deep-purple
-title: /Users/Jesli/Development/self_project/blog/_posts/2016-05-23-FTG-SYNC-notes.md
+title: "红雀增加实时对战的分析与讨论"
 date:  2016-05-23 20:57:25+0800
 categories: normal
 ---
