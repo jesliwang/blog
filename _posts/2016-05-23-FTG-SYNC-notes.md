@@ -1,3 +1,10 @@
+---
+layout: post
+color: deep-purple
+title: /Users/Jesli/Development/self_project/blog/_posts/2016-05-23-FTG-SYNC-notes.md
+date:  2016-05-23 20:57:25+0800
+categories: normal
+---
 * 红雀增加实时对战的分析与讨论
 红雀战斗系统基于非严格的战斗控制，所以在实现联网对战的方式上有2种方式可走
 ** 方案一：采用服务器/客户端模式的表现控制
